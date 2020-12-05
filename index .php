@@ -3,7 +3,7 @@
     <head>
         <title> Learning Task 7.1 </title>
     </head>
-	<Style>
+	<style>
         canvas{
             border:1px solid black;
         }
